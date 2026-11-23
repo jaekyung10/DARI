@@ -17,8 +17,6 @@
 
 **LIKELION 중앙해커톤 | Frontend**
 
-[Repository](https://github.com/yuu-nn/DARI)
-
 </div>
 
 ---
